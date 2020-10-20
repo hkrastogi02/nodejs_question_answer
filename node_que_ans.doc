@@ -341,3 +341,7 @@ setInterval(intervalFunc, 1500);
 setTimeout(), setImmediate(), and setInterval() return a timer object that can be used to reference the set Timeout or Immediate object. By passing said object into the respective clear function, execution of that object will be halted completely. The respective functions are clearTimeout(), clearImmediate(), and clearInterval().
 
 http://blog.vigowebs.com/post/nodejs-interview-questions-part-4
+
+https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
+
+https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678
